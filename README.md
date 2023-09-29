@@ -17,10 +17,14 @@ Welcome to my virtual lab, where we're discovering Microsoft Azure together. In 
 <h2>Program Walk-Through:</h2>
 <p align="center">
 First Step On Creating Your VM👨‍💻
-<p align="center">
+ 
+<p>
 Once you login into your azure account, you will go to the icon "virtual machine" and press create. 
-![Create Icon for VM](./images/Create VM icon.png)
-<br/>
+</p>
+<br />
+
+ ![Create Icon for VM](
+<br />
 
 <br/>
 <br />
