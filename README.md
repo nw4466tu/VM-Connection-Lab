@@ -23,7 +23,7 @@ Once you login into your azure account, you will go to the icon "virtual machine
 </p>
 <br />
 
- ![Create Icon for VM](
+ ![Create Icon for VM](https://github.com/nw4466tu/VM-Connection-Lab/blob/main/Create%20VM%20icon.PNG?raw=true)
 <br />
 
 <br/>
