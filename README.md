@@ -15,6 +15,10 @@ Welcome to my virtual lab, where we're discovering Microsoft Azure together. In 
 - <b>Windows 10</b> (21H2)
 - <b>Ubuntu<b> (x64 Gen2)
 <h2>Program Walk-Through:</h2>
+<p align="center">
+First Step On Creating Your VM👨‍💻
+<p align="center">
+ Once you login into your azure account, you will go to the icon "virtual machine" and press create. 
 
 <br/>
 <br />
