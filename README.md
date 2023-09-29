@@ -36,7 +36,7 @@ Pick the subscription you are using for the lab, and then either choose an exist
 
 <br />
 <p>
-  
+After your VM is created, 
 <br/>
 <br />
 <br />
