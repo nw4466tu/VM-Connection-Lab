@@ -33,6 +33,10 @@ Pick the subscription you are using for the lab, and then either choose an exist
 ![Creating our VM](https://github.com/nw4466tu/VM-Connection-Lab/blob/main/Creating%20a%20VM%20in%20Azure.PNG?raw=true)
 <br />
 <p>
+!{Creating our VM part 2](https://github.com/nw4466tu/VM-Connection-Lab/blob/main/Creating%20a%20VM%20in%20Azure%20(2).PNG?raw=true)
+<br />
+<p>
+  
 <br/>
 <br />
 <br />
