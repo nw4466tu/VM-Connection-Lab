@@ -37,6 +37,13 @@ Pick the subscription you are using for the lab, and then either choose an exist
 <br />
 <p>
 After your VM is created, continue the same process where we're using the same resource group, region, and naming this one VM2. Since we're going to connect to Ubuntu in this lab, we are going use Ubuntu x64 Gen2 for the server. And instead of using SSH public key for authentication type, we're going use password (same as VM1) since we're connecting over SSH. Keep SSH(22) as your inbound port as well as the same size of cpus. Click next for discs, then click to networking where it should automatically select the same virtual network, subnet, and IP address. 
+</p>
+<br />
+
+![Creating our VM](https://github.com/nw4466tu/VM-Connection-Lab/blob/main/Ubuntu%20VM%20Picture.PNG?raw=true)
+<br />
+<p>
+
 <br/>
 <br />
 <br />
