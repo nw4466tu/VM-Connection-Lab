@@ -41,6 +41,9 @@ After your VM is created, continue the same process where we're using the same r
 <br />
 
 ![Creating our VM](https://github.com/nw4466tu/VM-Connection-Lab/blob/main/Ubuntu%20VM%20Picture.PNG?raw=true)
+
+
+
 <br />
 <p>
 
