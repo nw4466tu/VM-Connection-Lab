@@ -46,7 +46,7 @@ After your VM is created, continue the same process where we're using the same r
 
 <br />
 <p>
-
+Once created, search virtual machines and click on VM1 where you will look for your public IP address and copy it. Go to your search bar and type in Remote Desk Top and then paste the IP address in there. 
 <br/>
 <br />
 <br />
