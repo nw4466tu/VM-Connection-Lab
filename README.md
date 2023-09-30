@@ -36,7 +36,7 @@ Pick the subscription you are using for the lab, and then either choose an exist
 
 <br />
 <p>
-After your VM is created, continue the same process where we're using password for our authentication since we're connecting over SSH. Write the same one as you did for VM1, and keep SSH(22) as your inbound port as well as the same size of cpus. Click next for discs, then click to networking where it should automatically select the same virtual network, subnet, and IP address. 
+After your VM is created, continue the same process where we're using the same resource group, region, and naming this one VM2. Since we're going to connect to Ubuntu in this lab, we are going use Ubuntu x64 Gen2 for the server. password for our authentication since we're connecting over SSH. Write the same one as you did for VM1, and keep SSH(22) as your inbound port as well as the same size of cpus. Click next for discs, then click to networking where it should automatically select the same virtual network, subnet, and IP address. 
 <br/>
 <br />
 <br />
