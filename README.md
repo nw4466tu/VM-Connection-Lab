@@ -46,7 +46,7 @@ After your VM is created, continue the same process where we're using the same r
 
 <br />
 <p>
-Once created, search virtual machines and click on VM1 where you will look for your public IP address and copy it. Go to your search bar and type in Remote Desk Top and then paste the IP address in there, click connect, and there should be a Windows security screen asking for you username and password. You might have to search for it if it doesn't come right up on the screen. If that's the case, go to more choices and click use a different account and type in the username and password you created for these VM's. 
+Once created, search virtual machines and click on VM1 where you will look for your public IP address and copy it. Go to your search bar and type in Remote Desk Top and then paste the IP address in there, click connect, and there should be a Windows security screen asking for you username and password. You might have to search for it if it doesn't come right up on the screen. If that's the case, go to more choices and click use a different account and type in the username and password you created for these VM's. After you do this, you'll probably get a warning message saying it's not trustworthy, but just click yes and you should be connected to your very own virtual machine.
 <br/>
 <br />
 <br />
